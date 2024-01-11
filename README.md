@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a medical student that loves tech and programming 👨‍⚕️🧑🏻‍💻.
+I'm a physician that loves programming, medicina and tech 👨‍⚕️🧑🏻‍💻.
 
 Check out my website: https://imedicineapp.com
 
